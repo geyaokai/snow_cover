@@ -1,0 +1,1 @@
+D:\env\PyVirtualEnv\kan\Scripts\activate
